@@ -13,7 +13,7 @@ This lightweight SwiftUI starter shows you how to wire up **Email/Password** aut
 
 > **Note**  
 > This free template covers only email/password auth.  
-> For Google & Apple Sign-In, “floating card” UI, splash screens, helper classes, and more, see the **Full Firebase Auth Template** (link below).
+> For Google & Apple Sign-In, Forgot Password, Apple & Google helper classes, and more, see the **Full Firebase Auth Template** (link below).
 
 ---
 
