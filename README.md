@@ -48,7 +48,7 @@ If you need:
 
 …grab the **Firebase Auth All-In-One**:
 
-👉 **[FULL TEMPLATE]([url](https://richaharsivo.gumroad.com/l/swiftwi-firebase-auth/EarlyBirdSale))**
+👉 **https://richaharsivo.gumroad.com/l/swiftwi-firebase-auth/EarlyBirdSale**
 
 ---
 
